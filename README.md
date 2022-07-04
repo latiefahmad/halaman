@@ -1,10 +1,4 @@
-      <section class="learn-more">
-        <a
-          href="https://developers.cloudflare.com/pages/platform/direct-uploads"
-        >
-          <button>Learn more</button>
-        </a>
-      </section>
-      <div class="logo">
-        <a href="https://pages.cloudflare.com/" target="_blank">
-          <img src="assets/cloudflare-pages.svg"
+all this page under licenced by Cloudflare
+for more information https://developers.cloudflare.com/pages/platform/direct-uploads
+or https://pages.cloudflare.com/
+   
